@@ -20,6 +20,7 @@
 **Theory:** 
 
  *Crude Death Rate (C.D.R)* is defined as the number of deaths (from all causes) per *k* persons in the population of any given region or community during a given period. Thus, in particular, the *annual crude death rate (C.D.R)* denoted by *m* for any given region or community is given by :
+ 
 $$
 m=\frac{Annual\ deaths}{Annual\ mean\ population}\times k   
 $$
@@ -27,6 +28,7 @@ $$
 where *k*=1000, usually.
 
 *Standardised Death Rates* of *A* and *B* are given respectively by :
+
 $$
 m^a=\frac{D^a}{P^a}\times1000 =\frac{\sum_xm_x^aP_x^a}{\sum_xp_x^a}
 $$
