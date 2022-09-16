@@ -100,9 +100,9 @@ P_alldead=(1-P_s[1])*(1-P_s[2])*(1-P_s[3]);P_alldead
 
 **Observation:**
 
-At least one of rabbit will be alive for one year more$=0.9986111$
+At least one of rabbit will be alive for one year more $=0.9986111$
 
-$X,Y,Z$ will be alive for two years time$=0.25$
+$X,Y,Z$ will be alive for two years time $=0.25$
 
 exactly one of the three is alive in two years $=0.2166667$ and all will be dead in two years time $= 0.025$
 
