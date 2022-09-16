@@ -8,9 +8,9 @@
 
 $X,Y,Z$ are three rabbits of age 1,2 and 3 years respectively. Find the probability that:
 
-$(i)$ at least one of rabbit will be alive for one year more,
+ $(i)$ at least one of rabbit will be alive for one year more,
 
-$(ii)$X,Y,Z will be alive for two years time,
+$(ii)$ X,Y,Z will be alive for two years time,
 
 (iii) exactly one of the three is alive in two years, and
 
@@ -20,7 +20,7 @@ $(ii)$X,Y,Z will be alive for two years time,
 
 **AIM:** To find probability 
 
-$(i)$at least one of rabbit  will be alive for one year more,
+$(i)$ at least one of rabbit  will be alive for one year more,
 
 $(ii)$ $X,Y,Z$ will be alive for two years time,
 
@@ -100,9 +100,9 @@ P_alldead=(1-P_s[1])*(1-P_s[2])*(1-P_s[3]);P_alldead
 
 **Observation:**
 
-At least one of rabbit will be alive for one year more$=0.9986111$
+At least one of rabbit will be alive for one year more $=0.9986111$
 
-$X,Y,Z$ will be alive for two years time$=0.25$
+$X,Y,Z$ will be alive for two years time $=0.25$
 
 exactly one of the three is alive in two years $=0.2166667$ and all will be dead in two years time $= 0.025$
 
