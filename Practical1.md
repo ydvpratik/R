@@ -13,7 +13,7 @@
 # Practical #1
 **Experiment:** Compute the crude and Standardised death rates of the two population *A*  and *B* , Regarding *A* as standard population, from the given data:
 
-![image-20220901002259835](img\image-20220901002259835.png)
+![image-20220901002259835](img/image-20220901002259835.png)
 
 **Aim:** To find Crude and Standardised death rates.
 
