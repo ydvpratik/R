@@ -3,6 +3,7 @@
 
 
 <br>
+
 **Experiment:** Estimate the standardised death rates for the two countries from the given data.
 
 <img src="file:///C:/Users/Pranav/AppData/Roaming/marktext/images/2022-08-17-01-01-26-image.png" title="" alt="" width="592">
@@ -11,6 +12,7 @@
 **Aim:** To calculate standardised death rate
 
 **Theory:** *Standardised Death Rates* of *A* and *B* are given respectively by :
+
 $$
 m^a=\frac{D^a}{P^a}\times1000 =\frac{\sum_xm_x^aP_x^a}{\sum_xp_x^a}
 $$
