@@ -4,7 +4,7 @@
 
 **Experiment:** Given the following table for $l_x$, the number of rabbits living at age $x$ complete the life table for rabbits.
 
- ![](C:\Users\Pranav\AppData\Roaming\marktext\images\2022-08-21-16-57-20-image.png)
+ ![](https://raw.githubusercontent.com/ydvpratik/img/master/2022/09/upgit_20220916_1663341066.png)
 
 $X,Y,Z$ are three rabbits of age 1,2 and 3 years respectively. Find the probability that:
 

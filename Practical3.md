@@ -4,7 +4,7 @@
 
 **Experiment:** Compute G.F.R, S.F.R, T.F.R and the gross reproduction rate from the data given below:
 
-![](C:\Users\Pranav\AppData\Roaming\marktext\images\2022-08-18-10-51-22-image.png)
+![](https://raw.githubusercontent.com/ydvpratik/img/master/2022/09/upgit_20220916_1663341038.png)
 
 
 

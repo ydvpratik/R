@@ -4,7 +4,7 @@
 
 **Experiment:	** The following are the mean and ranges of 20 samples of size 5 each. The data pertain to the overall length of a fragmentation bomb base manufactured during the war by the American store camp.
 
-![image-20220906214546684](C:\Users\Pranav\AppData\Roaming\Typora\typora-user-images\image-20220906214546684.png) 
+![image-20220906214546684](https://raw.githubusercontent.com/ydvpratik/img/master/2022/09/upgit_20220916_1663341119.png) 
 
 $(a)$ From these data, obtain the control limits for $\bar{X}$ and $R-$charts to control the length of bomb bases produced in the future.
 

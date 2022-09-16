@@ -136,4 +136,4 @@ lines(yr3,av7,"o",lty=3,col="red");
 
 **R-Graphics:**
 
-![image-20220901223248620](C:\Users\Pranav\AppData\Roaming\Typora\typora-user-images\image-20220901223248620.png)
+![image-20220901223248620](https://raw.githubusercontent.com/ydvpratik/img/master/2022/09/upgit_20220916_1663341108.png)

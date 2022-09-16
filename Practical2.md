@@ -6,7 +6,7 @@
 
 **Experiment:** Estimate the standardised death rates for the two countries from the given data.
 
-<img src="file:///C:/Users/Pranav/AppData/Roaming/marktext/images/2022-08-17-01-01-26-image.png" title="" alt="" width="592">
+<img src="https://raw.githubusercontent.com/ydvpratik/img/master/2022/09/upgit_20220916_1663341017.png" title="" alt="" width="592">
 
 
 **Aim:** To calculate standardised death rate
